@@ -10,6 +10,8 @@
 
 
 ## 開発したプロダクト
+会社の業務とは関係なく、下記プロダクト等を開発・運用した。
+
 - [TCP Exposer](https://www.tcpexposer.com/)
     - プライベートIPアドレスしか持たないサーバーにインターネットからアクセスできるようにするサービスで、2022年6月から運用中。
     - [サービスの使い方や開発理由を書いた記事へのリンク](https://zenn.dev/teasy/articles/tcpexposer-intoroduction)
