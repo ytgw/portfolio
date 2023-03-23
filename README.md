@@ -27,6 +27,11 @@
     - 例えば、月曜なのに週刊少年ジャンプが発売されていない時、月曜や土曜に発売されている時にツイートする。
     - [ソースコードへのリンク](https://github.com/ytgw/magazine-crawler)
 
+- [Received HTTP Request Information](https://echo.tcpexposer.com/)
+    - 受信したHTTPリクエストの内容を表示するWEBアプリで、2023年3月から運用中。
+    - TCP Exposerのデモや挙動確認のために作成した。
+    - [ソースコードへのリンク](https://github.com/ytgw/go-httpd-echo)
+
 - [三目並べ](https://tictactoe.tcpexposer.com/)
     - 三目並べで遊べるサービスで、ReactのチュートリアルをTypeScriptで書き直したもの。
     - TCP Exposerを使って自宅のRaspberryPiから配信している。
