@@ -84,3 +84,9 @@
 ## その他特記事項
 ### [Zenn](https://zenn.dev/teasy)
 Zennというサービスに、2022年2月からソフトウェア開発に関する知見をアウトプットしている。
+
+
+### [Sad Servers](https://sadservers.com/)
+Sad Serversという、トラブルがあるLinuxサーバーをデバッグする体験をできるサービス。
+業務で類似のトラブルシューティングをすることもあり、力試しも兼ねて実施している。
+実施時のメモは[こちら](https://github.com/ytgw/sad-servers)に記載している。
